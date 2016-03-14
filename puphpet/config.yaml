@@ -90,6 +90,7 @@ server:
         - git
         - mc
         - tmux
+        - unzip
 users_groups:
     install: '1'
     groups: {  }
@@ -235,7 +236,6 @@ php:
             - curl
             - fpm
             - gd
-            - imagick
             - mysql
         pear: {  }
         pecl:
