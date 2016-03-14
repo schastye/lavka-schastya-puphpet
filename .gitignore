@@ -1,1 +1,4 @@
+.vagrant/
+html/
 puphpet/config-custom.yaml
+puphpet/files/dot/ssh/
