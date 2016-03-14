@@ -90,6 +90,7 @@ server:
         - git
         - mc
         - tmux
+        - unzip
 users_groups:
     install: '1'
     groups: {  }

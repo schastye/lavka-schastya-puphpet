@@ -1,4 +1,6 @@
 .vagrant/
 html/
+core-*/
+lavka-schastya/
 puphpet/config-custom.yaml
 puphpet/files/dot/ssh/
