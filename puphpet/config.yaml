@@ -21,7 +21,7 @@ vagrantfile:     # +++
         machines:
           vflm_agxqhapp66qs:
             id: lavka-schastya
-            hostname: lavka-schastya.dev
+            hostname: lavka-schastya.local
             network:
               private_network: 192.168.56.101
               forwarded_port:
